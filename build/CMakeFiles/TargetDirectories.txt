@@ -1,0 +1,6 @@
+C:/Users/USER/Proj/Mimir/build/CMakeFiles/mimirc.dir
+C:/Users/USER/Proj/Mimir/build/CMakeFiles/edit_cache.dir
+C:/Users/USER/Proj/Mimir/build/CMakeFiles/rebuild_cache.dir
+C:/Users/USER/Proj/Mimir/build/compiler/lib/CMakeFiles/mlib.dir
+C:/Users/USER/Proj/Mimir/build/compiler/lib/CMakeFiles/edit_cache.dir
+C:/Users/USER/Proj/Mimir/build/compiler/lib/CMakeFiles/rebuild_cache.dir

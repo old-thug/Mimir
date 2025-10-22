@@ -1,0 +1,2 @@
+C:\msys64\mingw64\bin\ar.exe qc libmlib.a CMakeFiles/mlib.dir/file_system.c.obj
+C:\msys64\mingw64\bin\ranlib.exe libmlib.a

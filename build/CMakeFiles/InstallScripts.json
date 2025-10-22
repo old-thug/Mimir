@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/USER/Proj/Mimir/build/cmake_install.cmake",
+		"C:/Users/USER/Proj/Mimir/build/compiler/lib/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
